@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="src/BookIt.Api/BookIt.Api.csproj" Id="f9213877-c4d6-437f-8785-68649c3baf5f" />
+  <Project Path="src/BookIt.Application/BookIt.Application.csproj" Id="5e54eb7e-a95f-49c3-a293-47d057135c48" />
+  <Project Path="src/BookIt.Domain/BookIt.Domain.csproj" Id="035b1a48-ec1e-437b-a399-c2d6c696e3db" />
+  <Project Path="src/BookIt.Infrastructure/BookIt.Infrastructure.csproj" Id="df26b3c9-edf0-459b-8614-74a830082657" />
 </Solution>
