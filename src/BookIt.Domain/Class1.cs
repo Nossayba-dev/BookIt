@@ -1,6 +1,4 @@
-﻿using BookIt.Application;
-
-namespace BookIt.Domain
+﻿namespace BookIt.Domain
 {
     public class Class1
     {
